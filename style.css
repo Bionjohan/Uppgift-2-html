@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: yellow;
+    color: blue;
+    font-family: 'Roboto Mono', monospace;
+}
+body{
+    background-image: url(https://lh3.googleusercontent.com/drive-storage/APZSt_eea_Q6096dEo6XttKExJD0fjU6QhdKXJQtJ3KF7RX5ebmXO5fb-xzS92yo9r7f6-XQZlhr-akcFt6IiVfrSGW-JU9ChYUOqP8gS0tCUA=w1868-h992);
+    background-size: cover;
+}
+div{
+    border: 2px solid black;
+    background-color: gray;
+    margin-left: 15%;
+    border-radius: 10px;
+    margin: 15px;
+    flex-wrap: wrap;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+}
+h3{
+    text-align: center; 
+}
